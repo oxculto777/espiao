@@ -1,0 +1,112 @@
+Uri: https://cdn.utmify.com.br/scripts/utms/latest.js
+File Name: C:\Downloaded Web Sites\whatsappesiao.govbrasil.site\scripts\utms\latest.js
+Content Type: text/javascript
+
+Uri: https://whatsappesiao.govbrasil.site/telefone/
+File Name: C:\Downloaded Web Sites\whatsappesiao.govbrasil.site\telefone\index.htm
+Content Type: text/html
+
+Uri: https://whatsappesiao.govbrasil.site/telefone/css/all.min.css
+File Name: C:\Downloaded Web Sites\whatsappesiao.govbrasil.site\telefone\css\all.min.css
+Content Type: text/css
+
+Uri: https://whatsappesiao.govbrasil.site/telefone/css/eael-92.css
+File Name: C:\Downloaded Web Sites\whatsappesiao.govbrasil.site\telefone\css\eael-92.css
+Content Type: text/css
+
+Uri: https://whatsappesiao.govbrasil.site/telefone/css/font-awesome.min.css
+File Name: C:\Downloaded Web Sites\whatsappesiao.govbrasil.site\telefone\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://whatsappesiao.govbrasil.site/telefone/css/frontend-lite.min.css
+File Name: C:\Downloaded Web Sites\whatsappesiao.govbrasil.site\telefone\css\frontend-lite.min.css
+Content Type: text/css
+
+Uri: https://whatsappesiao.govbrasil.site/telefone/css/general.min.css
+File Name: C:\Downloaded Web Sites\whatsappesiao.govbrasil.site\telefone\css\general.min.css
+Content Type: text/css
+
+Uri: https://whatsappesiao.govbrasil.site/telefone/css/global.css
+File Name: C:\Downloaded Web Sites\whatsappesiao.govbrasil.site\telefone\css\global.css
+Content Type: text/css
+
+Uri: https://whatsappesiao.govbrasil.site/telefone/css/header-footer.min.css
+File Name: C:\Downloaded Web Sites\whatsappesiao.govbrasil.site\telefone\css\header-footer.min.css
+Content Type: text/css
+
+Uri: https://whatsappesiao.govbrasil.site/telefone/css/post-6.css
+File Name: C:\Downloaded Web Sites\whatsappesiao.govbrasil.site\telefone\css\post-6.css
+Content Type: text/css
+
+Uri: https://whatsappesiao.govbrasil.site/telefone/css/post-92.css
+File Name: C:\Downloaded Web Sites\whatsappesiao.govbrasil.site\telefone\css\post-92.css
+Content Type: text/css
+
+Uri: https://whatsappesiao.govbrasil.site/telefone/css/style.min.css
+File Name: C:\Downloaded Web Sites\whatsappesiao.govbrasil.site\telefone\css\style.min.css
+Content Type: text/css
+
+Uri: https://whatsappesiao.govbrasil.site/telefone/css/swiper.min.css
+File Name: C:\Downloaded Web Sites\whatsappesiao.govbrasil.site\telefone\css\swiper.min.css
+Content Type: text/css
+
+Uri: https://whatsappesiao.govbrasil.site/telefone/css/theme.min.css
+File Name: C:\Downloaded Web Sites\whatsappesiao.govbrasil.site\telefone\css\theme.min.css
+Content Type: text/css
+
+Uri: https://whatsappesiao.govbrasil.site/telefone/css/v4-shims.min.css
+File Name: C:\Downloaded Web Sites\whatsappesiao.govbrasil.site\telefone\css\v4-shims.min.css
+Content Type: text/css
+
+Uri: https://whatsappesiao.govbrasil.site/telefone/fonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\whatsappesiao.govbrasil.site\telefone\fonts\fa-solid-900.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://whatsappesiao.govbrasil.site/telefone/fonts/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\whatsappesiao.govbrasil.site\telefone\fonts\fa-solid-900.woff
+Content Type: application/font-woff
+
+Uri: https://whatsappesiao.govbrasil.site/telefone/images/bg.webp
+File Name: C:\Downloaded Web Sites\whatsappesiao.govbrasil.site\telefone\images\bg.webp
+Content Type: image/webp
+
+Uri: https://whatsappesiao.govbrasil.site/telefone/images/img-1.webp
+File Name: C:\Downloaded Web Sites\whatsappesiao.govbrasil.site\telefone\images\img-1.webp
+Content Type: image/webp
+
+Uri: https://whatsappesiao.govbrasil.site/telefone/images/img2.webp
+File Name: C:\Downloaded Web Sites\whatsappesiao.govbrasil.site\telefone\images\img2.webp
+Content Type: image/webp
+
+Uri: https://whatsappesiao.govbrasil.site/telefone/images/ssl-secure-3.webp
+File Name: C:\Downloaded Web Sites\whatsappesiao.govbrasil.site\telefone\images\ssl-secure-3.webp
+Content Type: image/webp
+
+Uri: https://whatsappesiao.govbrasil.site/telefone/js/elements-handlers.min.js
+File Name: C:\Downloaded Web Sites\whatsappesiao.govbrasil.site\telefone\js\elements-handlers.min.js
+Content Type: application/x-javascript
+
+Uri: https://whatsappesiao.govbrasil.site/telefone/js/frontend-modules.min.js
+File Name: C:\Downloaded Web Sites\whatsappesiao.govbrasil.site\telefone\js\frontend-modules.min.js
+Content Type: application/x-javascript
+
+Uri: https://whatsappesiao.govbrasil.site/telefone/js/frontend.min.js
+File Name: C:\Downloaded Web Sites\whatsappesiao.govbrasil.site\telefone\js\frontend.min.js
+Content Type: application/x-javascript
+
+Uri: https://whatsappesiao.govbrasil.site/telefone/js/hello-frontend.min.js
+File Name: C:\Downloaded Web Sites\whatsappesiao.govbrasil.site\telefone\js\hello-frontend.min.js
+Content Type: application/x-javascript
+
+Uri: https://whatsappesiao.govbrasil.site/telefone/js/jquery-3.7.1.min.js
+File Name: C:\Downloaded Web Sites\whatsappesiao.govbrasil.site\telefone\js\jquery-3.7.1.min.js
+Content Type: application/x-javascript
+
+Uri: https://whatsappesiao.govbrasil.site/telefone/js/latest.js
+File Name: C:\Downloaded Web Sites\whatsappesiao.govbrasil.site\telefone\js\latest.js
+Content Type: application/x-javascript
+
+Uri: https://whatsappesiao.govbrasil.site/telefone/js/v4-shims.min.js
+File Name: C:\Downloaded Web Sites\whatsappesiao.govbrasil.site\telefone\js\v4-shims.min.js
+Content Type: application/x-javascript
+
